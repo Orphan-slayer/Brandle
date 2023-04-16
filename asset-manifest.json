@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/Brandle/static/css/main.c1f27877.css",
-    "main.js": "/Brandle/static/js/main.236e8c0e.js",
+    "main.js": "/Brandle/static/js/main.cd1f0037.js",
     "index.html": "/Brandle/index.html",
     "main.c1f27877.css.map": "/Brandle/static/css/main.c1f27877.css.map",
-    "main.236e8c0e.js.map": "/Brandle/static/js/main.236e8c0e.js.map"
+    "main.cd1f0037.js.map": "/Brandle/static/js/main.cd1f0037.js.map"
   },
   "entrypoints": [
     "static/css/main.c1f27877.css",
-    "static/js/main.236e8c0e.js"
+    "static/js/main.cd1f0037.js"
   ]
 }

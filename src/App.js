@@ -26,7 +26,7 @@ function App() {
   const[didit, Didya] = useState(false)
   
   const Brands = [
-		{name: "Subway",},{name: "Microsoft 2001",},{name: "Apple",},{name:"Heinz",},{name:"Kraft",},{name:"Linux",},{name:"Mug Root Beer",},{name:"Microsoft 2016",},{name:"Pepsi",},{name:"Pepsi 1969",},{name:"Tropicana",},
+		{name: "Subway",},{name: "Microsoft 2001",},{name: "Apple",},{name:"Heinz",},{name:"Kraft",},{name:"Linux",},{name:"Mug Root Beer",},{name:"Microsoft 2016",},{name:"Pepsi",},{name:"Pepsi 1969",},{name:"Tropicana",},{name:"Amazon",},{name:"Android",},{name:"Animal Planet",},{name:"Audible",},{name:"Chili's",},{name:"Disney",},{name:"Dominos",},{name:"Drop Box",},{name:"FireFox",},{name:"GoodWill",},{name:"Chrome",},{name:"Green Giant",},{name:"Hello Kitty",},{name:"Instagram",},{name:"John Deere",},{name:"Jollibee",},{name:"Kentucky Fried Chicken",},{name:"Michelin",},{name:"Monopoly",},{name:"Monster Energy",},{name:"Petco",},{name:"PlayStation",},{name:"Snapchat",},{name:"Spotify",},{name:"Taco Bell",},{name:"TikTok",},{name:"Twitter",},{name:"The Vikings",},{name:"Wikipedia",},{name:"Youtube",}
 	];
 
  
